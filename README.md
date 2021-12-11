@@ -1,12 +1,5 @@
 ## Leap Year
 
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
-Login to your Udemy course and head over to the link below to get the sign up link:
-
-[Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
 
 # 💪This is a Difficult Challenge 💪
 
@@ -73,9 +66,7 @@ e.g. When you hit **run**, this is what should happen:
 # Hint
 
 1. Try to visualise the rules by creating a flow chart on www.draw.io
-2. If you really get stuck, you can see the flow chart I created: 
-
-https://bit.ly/36BjS2D
+ 
 
 # Test Your Code
 
@@ -85,7 +76,3 @@ Before checking the solution, try copy-pasting your code into this repl:
 
 This repl includes my testing code that will check if your code meets this assignment's objectives. 
 
-
-# Solution
-
-[https://repl.it/@appbrewery/day-3-3-solution](https://repl.it/@appbrewery/day-3-3-solution)
